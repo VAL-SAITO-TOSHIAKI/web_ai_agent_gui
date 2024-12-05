@@ -1,0 +1,4 @@
+__pycache__
+.env
+search_result
+web_agent.log
